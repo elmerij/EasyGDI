@@ -1,0 +1,2 @@
+# EasyGDI
+simplified GDIOverlay
